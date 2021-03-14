@@ -15,7 +15,7 @@ In a nutshell, the program should work as follows:
 
 ![Screenshot 2021-03-15 025816](https://user-images.githubusercontent.com/54658086/111084861-87ed3800-853a-11eb-9507-d744c1dbbff1.png)
 
-## Steps to execute the Program
+## Steps to execute the Program:
 1. Download all the files in repository.
 2. Python is must. (would recommend Annaconda IDE)
 3. Just run main.py and you should be noticing console asking commands as input.
