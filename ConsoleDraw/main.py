@@ -33,14 +33,11 @@ def main(argv):
     canvas.printc()
     return True
 
-
+# taking the commands as input until 'Q' or 'q' is given as input for Quit.
 if __name__ == '__main__':
-    
     notQuit = True
-    
     while notQuit:
         command = input('Enter command: ')
-
         if not validateInputString(command):
             continue
 
