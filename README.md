@@ -12,7 +12,7 @@ In a nutshell, the program should work as follows:
  2. Start drawing on the canvas by issuing various commands
  3. Quit
 ## Commands and their Description:
-
+<img src="https://user-images.githubusercontent.com/54658086/111084861-87ed3800-853a-11eb-9507-d744c1dbbff1.png" width="324" height="324">
 ![Screenshot 2021-03-15 025816](https://user-images.githubusercontent.com/54658086/111084861-87ed3800-853a-11eb-9507-d744c1dbbff1.png)
 
 ## Steps to execute the Program:
