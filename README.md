@@ -1,5 +1,7 @@
-# CS_codingChallenge
-Coding challenge for Credit Suisse HK. 
+# Coonsole_DrawingProgram
+A simple Program to create canvas then add shapes into it according to commands
+
+### Thank you Proxor for giving this Assignment, got a chance to revise Object Oriented Programming in Python and brain storm some simple logics :)
 
 ## Problem Descirption
 
@@ -30,6 +32,9 @@ Below is a sample run of the program. User input is prefixed with enter command:
 ![Command description visualized](https://github.com/timgrob/CS_codingChallenge/blob/master/commandDescirption.png)
 
 
-## Usage
+## Steps to execute the Program
+1. Download all the files in repository.
+2. Python is must. (would recommend Annaconda IDE)
+3. Just run main.py and you should be noticing console asking commands as input.
+4. For unit testing open tests folder then you can run indivindual unit_test for each command.
 
-Clone the repository and and run the main.py file from your terminal. The solution is written in plain python, so no additional packages are needed to be downloaded. 
