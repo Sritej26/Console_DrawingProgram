@@ -3,7 +3,7 @@ A simple Program to create canvas then add shapes into it according to commands
 
 ### _Thank you Proxor for giving this Assignment, got a chance to revise Object Oriented Programming in Python and brain storm some simple logics_ :)
 
-## Problem Descirption:
+## Problem Description:
 
 You're given the task of writing a simple console version of a drawing program. 
 At this time, the functionality of the program is quire limited but this might change in the future. 
