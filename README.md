@@ -19,4 +19,5 @@ In a nutshell, the program should work as follows:
 2. Python is must. (would recommend Annaconda IDE)
 3. Just run main.py and you should be noticing console asking commands as input.
 4. For unit testing open tests folder then you can run indivindual unit_test for each command.
+5. Need to change paths in unit tests accordingly, I have appended  path according to my user name so that directory can have all files.
 
