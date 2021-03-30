@@ -1,7 +1,6 @@
 # Console_DrawingProgram
-A simple Program to create canvas then add shapes into it according to commands
+ _A simple Program to create canvas then add shapes into it according to commands_
 
-### _Thank you Proxor for giving this Assignment, got a chance to revise Object Oriented Programming in Python and brain storm some simple logics_ :)
 
 ## Problem Description:
 
